@@ -1,5 +1,5 @@
-#include <stdio.h>
-//this is a dummy
+#include <stdio.h:>
+//this is a dumm and yay
 int main(){
 	int ascii = 0;
 	int number =0;
